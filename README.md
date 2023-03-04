@@ -1,4 +1,6 @@
 # leaflet-challenge
+highlighting earthquakes this month
+
 
 The instructions for this activity are broken into two parts:
 
